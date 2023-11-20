@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-19xl: 38px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color: #fff;
+  --color1: #333;
+  --color-ghostwhite-100: #f3f1fe;
+  --color-gainsboro: #e2e2e2;
+  --color-skyblue: #77b2d3;
+  --color-silver: #c7c7c7;
+
+  /* Border radiuses */
+  --br-231xl: 250px;
+  --br-mini: 15px;
+  --br-6xs: 7px;
+
+  /* Effects */
+  --effect: 0px 4px 18px rgba(0, 0, 0, 0.08);
+}
